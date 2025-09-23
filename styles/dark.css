@@ -15,3 +15,15 @@
   --page-bg-image: url("../images/cover-image-dark.png");
   --page-bg-color: #0b1445;
 }
+
+.theme-dark .header__rec {
+  display: inline-block;
+}
+
+.theme-dark .header__theme-menu-button {
+  color: var(--accent-color);
+}
+
+.theme-dark .header__theme-menu-button:hover {
+  border: 1px solid #ff007066;
+}

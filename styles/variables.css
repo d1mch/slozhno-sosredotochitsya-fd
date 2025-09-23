@@ -10,4 +10,5 @@
   --page-bg-color: #0b1445;
   --font: "IBM Plex mono";
   --font-size: 18px;
+  --logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
 }
