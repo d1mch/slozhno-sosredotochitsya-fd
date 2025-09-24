@@ -11,19 +11,12 @@
   --text-color: #f1b2ce;
   --title-color: #f1b2ce;
   --decor-bg-color: #ff0070;
-  --title-decor-color: #0b1445;
+  --title-decor-color: #000028;
   --page-bg-image: url("../images/cover-image-dark.png");
-  --page-bg-color: #0b1445;
+  --page-bg-color: #000028;
+  --button-hover-border: #ff007066;
 }
 
 .theme-dark .header__rec {
   display: inline-block;
-}
-
-.theme-dark .header__theme-menu-button {
-  color: var(--accent-color);
-}
-
-.theme-dark .header__theme-menu-button:hover {
-  border: 1px solid #ff007066;
 }

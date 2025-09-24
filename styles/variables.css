@@ -5,10 +5,11 @@
   --text-color: #f1b2ce;
   --title-color: var(--text-color);
   --decor-bg-color: #ff0070;
-  --title-decor-color: #0b1445;
+  --title-decor-color: #000028;
   --page-bg-image: url("../images/cover-image-dark.png");
-  --page-bg-color: #0b1445;
+  --page-bg-color: #000028;
   --font: "IBM Plex mono";
   --font-size: 18px;
   --logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --button-hover-border: #ff007066;
 }

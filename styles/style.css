@@ -50,7 +50,7 @@
 }
 
 .header__theme-menu-button:hover {
-  border: 1px solid rgba(255, 0, 112, 0.5);
+  border: 1px solid var(--button-hover-border);
 }
 
 .header__theme-menu-button:focus {
